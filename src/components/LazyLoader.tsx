@@ -6,6 +6,7 @@ export const SplashLoader = ({ message = "perfect meal for your baby" }) => {
       <div style={{ animation: "fx-pulse 2s ease-in-out infinite", transformOrigin: "center" }}>
         <img
           src="/logo.png"
+          loading="lazy"
           alt="Mamavite Logo"
           className="h-60 w-auto"
         />

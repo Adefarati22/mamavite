@@ -50,6 +50,7 @@ export default function Hero() {
               alt="Mamavite Tom Brown cereal pack"
               width={1024}
               height={1024}
+              loading="lazy"
               className="relative rounded-[2rem] shadow-warm w-full h-auto object-cover"
             />
           </div>

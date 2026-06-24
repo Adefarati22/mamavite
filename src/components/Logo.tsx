@@ -5,6 +5,7 @@ export default function Logo() {
       <h1 className="text-2xl font-bold text-brown font-serif">Mamavite.</h1>
       <img
         src="/logo.png"
+        loading="lazy"
         alt="Mamavite Logo"
         className="h-16 w-auto object-contain"
       />
