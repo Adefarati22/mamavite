@@ -14,9 +14,9 @@ export const navLink = [
   ];
 
    export  const steps = [
-      { n: "01", text: "Pour cold or hot water into a cup or bowl." },
-      { n: "02", text: "Stir in 2–3 tablespoons of Mamavite Tom Brown powder." },
-      { n: "03", text: "Add milk, honey, or sugar to taste — and enjoy!" },
+      { n: "01", text: "Boil on fire for few minutes to cook." },
+      { n: "02", text: "Stir in 2-3 tablespoons of Mamavite Tom Brown powder." },
+      { n: "03", text: "Add milk, honey, or sugar to taste and enjoy!" },
     ];
    export const tom = [
     { icon: "🌽", name: "Whole Grains", b: "Sustained energy" },
